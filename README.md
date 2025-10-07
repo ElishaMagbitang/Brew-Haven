@@ -23,3 +23,6 @@ The layout is clean and visually balanced, combining **earthy tones**, **soft ty
 ## Credits
 Designed by **Elisha Jhoyce Magbitang**  
 © 2025 Brew Haven. All rights reserved.
+
+![Brew Haven Preview](bh.png)
+
