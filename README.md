@@ -20,6 +20,10 @@ The layout is clean and visually balanced, combining **earthy tones**, **soft ty
 - **Design Type:** Web UI Mockup  
 - **Focus:** Visual identity, layout consistency, and user-friendly interaction flow.  
 
+## 🎨 Figma Design
+You can view the Figma prototype here:  
+👉 [View Figma Design](https://www.figma.com/design/sUSOymoTbdCk2ILquBDmn0/POS?node-id=0-1&t=7QQI4VHYlZ6HWg20-1)
+
 ## Credits
 Designed by **Elisha Jhoyce Magbitang**  
 © 2025 Brew Haven. All rights reserved.
